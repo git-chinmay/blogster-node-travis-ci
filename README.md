@@ -1,2 +1,2 @@
 # blogster-node-travis-ci
- blogster webapp with ravis as CI server created in nodejs advance study
+ blogster webapp with Travis as CI server created as part of nodejs advance study.
